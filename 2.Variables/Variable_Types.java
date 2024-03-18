@@ -1,4 +1,4 @@
-package HelloWorld;
+package com.programs;
 
 public class Variable_Types {
 	static int num = 100; //static variable
