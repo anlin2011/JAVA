@@ -1,4 +1,4 @@
-package HelloWorld;
+package com.programs;
 
 /*Widening Casting
  	byte -> short -> char -> int -> long -> float -> double
