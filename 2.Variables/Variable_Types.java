@@ -6,9 +6,15 @@ public class Variable_Types {
 	void method() {
 		int num1 = 200; //local variable
 		System.out.println("Num1: " + num1);
+		num1 = 300;
+		System.out.println("Num1: " + num1);
 	}
 	public static void main(String[] args) {
 		int num2 = 300; //instance variable
+		System.out.println("Num2: " + num2);
+		
+		num2 = 500;
+		num2 = 700;
 		
 		System.out.println("Num: " + num);
 		
@@ -19,3 +25,4 @@ public class Variable_Types {
 		
 	}
 }
+
