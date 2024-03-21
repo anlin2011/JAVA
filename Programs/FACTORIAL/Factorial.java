@@ -1,4 +1,4 @@
-package Basic_Programs;
+package com.basic_programs;
 import java.util.*;
 public class Factorial {
 
