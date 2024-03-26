@@ -1,4 +1,4 @@
-package Programs;
+package com.programs;
 import java.util.Scanner;
 public class Insurance {
 
