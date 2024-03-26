@@ -1,4 +1,4 @@
-package HelloWorld;
+package com.programs;
 
 import java.util.Scanner;
 public class if_statement {
