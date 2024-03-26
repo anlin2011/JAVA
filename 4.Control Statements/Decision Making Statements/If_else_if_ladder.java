@@ -1,6 +1,6 @@
-package HelloWorld;
+package com.programs;
 import java.util.Scanner;
-public class If_else_ladder {
+public class If_else_if_ladder {
 
 	public static void main(String[] args) {
 		float avg;
